@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+}
+.titulo{
+    text-align: center;
+    font-size: larger;
+}
+.subtitulo{
+    text-align: center;
+    font-size: medium;
+}
+.imagem{
+    text-align: center;
+}
+.texto{
+    text-align: left;
+    font-size: 20px;
+}
+.outrotexto{
+    text-align: left;
+    font-size: 20px;
+}
+.maistexto{
+    text-align: left;
+    font-size: 20px;
+}
